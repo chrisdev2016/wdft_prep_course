@@ -1,0 +1,39 @@
+h1
+{
+    color: red;
+}
+p{
+	border-width: 2px;
+	border-color: black;
+	border-style: dotted;
+}
+	 
+p {
+	padding-top: 20px; 
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+}
+p {
+	margin: 30px;
+	
+}
+p {
+	width: 200px;
+	
+}
+div{
+height: 200px;
+	border: 5px solid blue;
+	margin: 10px;
+}
+span 
+{
+	display: inline-block;
+	background-color: orange;
+	border: 1px solid black;
+	width:100px;
+	height:100px;
+	padding: 0px;
+	margin: 0px;
+}
